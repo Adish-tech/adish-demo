@@ -1,3 +1,3 @@
 # adish-demo
-This is my first git repository
-author-adish jain
+This is my first git repository.
+Author-Adish Jain
